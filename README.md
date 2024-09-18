@@ -43,15 +43,15 @@ Este sistema simula un entorno controlado en Tinkercad con un generador de seña
 
 ## 📊 Esquema del Circuito
 
-![Esquema del Circuito](./images/esquema.png)
+![Esquema del Circuito](./images/Esquema_Nuevo.png)
 
 ## 🏆 Resultados Esperados
 
-- **Frecuencia**: 3200.17 Hz
-- **Voltaje**: 6.04 V
+- **Amplitud**: 3200.17 
+- **Frecuencia**: 6.04 
 - **Forma de Onda**: Senoidal
 
 ## 🧠 Autores
 
-- **Oscar Echeverri** - [GitHub](https://github.com/Oscar-Echeverry/Desafio_1_Udea)
-- **Esteban Mogrovejo**
+- **Oscar Echeverri** - [GitHub](https://github.com/Oscar-Echeverry)
+- **Esteban Mogrovejo**-[GitHub](https://github.com/Exxdm)
